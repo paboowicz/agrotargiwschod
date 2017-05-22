@@ -373,6 +373,8 @@ textarea {
 	font-size:28px;
 	font-weight:500px;
 	line-height:32px;
+	font-weight: bold;
+	list-style-type: none;
 }
 .div_zindex {
 	position:relative;
