@@ -369,6 +369,11 @@ textarea {
 .section-header p {
 	width:98%;
 }
+.section-header ul li{
+	font-size:28px;
+	font-weight:500px;
+	line-height:32px;
+}
 .div_zindex {
 	position:relative;
 	z-index:1;
