@@ -1709,7 +1709,7 @@ label.error.wobble-error {
 	outline: 1px dashed rgba(0, 0, 0, 0.5);
 	outline-offset:4px;
 	margin:5px 10px 15px;
-	padding: 20px;
+	padding: 0px;
 }
 .owl-pagination {
 	width:100%;
