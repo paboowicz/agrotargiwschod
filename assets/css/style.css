@@ -350,6 +350,12 @@ textarea {
 	background-color:#de302f;
 	color:#fff;
 }
+.third-bg  {
+	background-color:#fff;
+	color: black;
+}
+
+
 .fourth-bg {
 	background-color:#161616;
 }
@@ -407,8 +413,10 @@ textarea {
 .white_text p {
 	color:#fff;
 }
-
-
+.third-bg  h5{
+	
+	color: black;
+}
 /*--------------------------------------------
 	1.6. Overlay-color
 ---------------------------------------------------*/
@@ -1282,8 +1290,8 @@ section#faq {
 =======================*/
 
 .footer-social-tab {
-  margin-bottom: 80px;
-  margin-top: 145px;
+  margin-bottom: 20px;
+  margin-top: 35px;
   overflow: hidden;
   position: relative;
   text-align: center;
@@ -2163,8 +2171,8 @@ p {
 	line-height:145px;
 }
 .footer-social-tab {
-	margin-bottom:80px;
-	margin-top:80px;
+	margin-bottom:20px;
+	margin-top:20px;
 }
 .copyright {
 	padding:25px 0;
@@ -2378,8 +2386,8 @@ h5 {
 	height:494px;
 }
 .footer-social-tab {
-	margin-bottom:60px;
-	margin-top:60px;
+	margin-bottom:15px;
+	margin-top:15px;
 }
 .footer-social-tab a {
 	margin:0 15px;
@@ -2721,8 +2729,8 @@ p {
   max-width: 460px;
 }
 .footer-social-tab {
-	margin-bottom:40px;
-	margin-top:51px;
+	margin-bottom:10px;
+	margin-top:12px;
 }
 .footer-social-tab a {
 	font-size:25px;
