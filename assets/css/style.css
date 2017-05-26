@@ -359,6 +359,10 @@ textarea {
 .fourth-bg {
 	background-color:#161616;
 }
+.fifth-bg{
+	background-color:#555555;
+}
+
 .section-padding {
 	padding:80px 0px;
 }
@@ -386,6 +390,14 @@ textarea {
 	position:relative;
 	z-index:1;
 }
+.fifth-bg,
+.fifth-bg  p, 
+.fifth-bg h1, 
+.fifth-bg h2,
+.fifth-bg h3,
+.fifth-bg h4,
+.fifth-bg h5,
+.fifth-bg h6,
 .secondary-bg,
 .secondary-bg  p, 
 .secondary-bg h1, 
@@ -1705,6 +1717,12 @@ label.error.wobble-error {
 	width:90%;
 	padding: 20px;
 }
+#sponsors {
+	background-image: url(../images/2b.png);	
+	background-repeat: repeat-y|repeat-y;
+
+}
+
 #sponsors-slider .sponsors_logo a {
 	display:table-cell;
 	vertical-align:middle;
@@ -3243,3 +3261,4 @@ padding-bottom: 56.25%;
 	width: 100%;
 	height: 100%;
 }
+div.border { border-bottom: 2px solid #fff; }
