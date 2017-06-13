@@ -624,6 +624,18 @@ nav.navigation ul li .dropdown-menu li {
 	line-height:auto !important;
 	margin-top:20px;
 }
+.banner-tagline p  span{
+	color:#f00;
+	font-size:24px;
+	line-height:auto !important;
+	margin-top:20px;
+}
+.banner-tagline h5{
+	font-size:24px;
+	color:#f00;
+	line-height:auto !important;
+	margin-top:20px;
+}
 
 
 /*----------------------------------
