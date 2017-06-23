@@ -756,6 +756,9 @@ audio, canvas, progress, video {
 .about-section {
 	position:relative
 }
+.about-section h3 {
+	margin-top:40px;
+}
 .about-content p {
 	margin-bottom:40px;
 }
