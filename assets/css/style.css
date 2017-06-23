@@ -631,10 +631,17 @@ nav.navigation ul li .dropdown-menu li {
 	margin-top:20px;
 }
 .banner-tagline h3{
-	
 	color:#f00;
 	line-height:auto !important;
 	margin-top:20px;
+}
+.banner-tagline h2{
+	color:#fff;
+	padding-top:30px;
+}
+.banner-tagline h4{
+	color:#fff;
+	padding-top:30px;
 }
 
 
