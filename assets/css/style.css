@@ -3089,7 +3089,11 @@ h2 {
 /*====================
 	21. Event Gallery
 ===============================*/
+#fotorelacja {
+	background-image: url(../images/2b.png);	
+	background-repeat: repeat-y|repeat-y;
 
+}
 #gallery_slider {
   background: #000000 none repeat scroll 0 0;
 }
